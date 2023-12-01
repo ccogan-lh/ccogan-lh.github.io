@@ -21,7 +21,7 @@ author: Colin Cogan
 
 navbar-links:
   About Me: "aboutme"
-  About Me2: "aboutme2"
+  Moby: "moby"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
