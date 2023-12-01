@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me 2
+subtitle: Why does Moby smell bad
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Because he is a dog.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- He has socks
+- He eats worms
 
-What else do you need?
+What else ist here?
 
-### My story
+### Does he smell or not?
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+He smells
